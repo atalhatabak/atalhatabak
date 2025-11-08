@@ -55,5 +55,5 @@
 <br><br>
 
 <div align="center">
-  <a href="https://www.yout-ube.com/watch?v=dQw4w9WgXcQ">do NOT click this btw</a>
+  <a href="https://www.yout-ube.com/watch?v=dQw4w9WgXcQ" target="_blank">do NOT click this btw</a>
 </div>
