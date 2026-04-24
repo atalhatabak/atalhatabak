@@ -8,15 +8,15 @@
 
 <h2 align="center">Hello there 👋</h2>
 <div align="center">
-  <h3>I'm Irfan</h3>
-  <h4 >Full Stack Developer || Software Developer</h4>
-  <p>There's no need to exaggerate certain things. I write code and I enjoy it immensely. That's all.</p>
-  <sub>(and I'm just one step away from being completely addicted to caffeine. help.)</sub>
+  <h3>I'm Talha</h3>
+  <h4 >Devops Engineer || Software Developer</h4>
+  <p></p>
+  <sub></sub>
 </div>
 
 <br>
 
-<h2  align="center">🔧 Technologies & Tools</h2>
+<!-- <h2  align="center">🔧 Technologies & Tools</h2>
 <div align="center">
   
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,19 +41,16 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
-</div>
+</div> -->
 
 <br>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank" href="mailto:irfannsubasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a target="_blank" href="https://www.linkedin.com/in/irfansubasi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a>
-  <a target="_blank" href="https://www.instagram.com/irfansubasii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a target="_blank" href="mailto:talha@talhatabak.com"><img alt="Static Badge" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/atalhatabak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a>
 </p>
 
 <br><br>
 
-<div align="center">
-  <a href="https://www.yout-ube.com/watch?v=dQw4w9WgXcQ" target="_blank">do NOT click this btw</a>
-</div>
+
